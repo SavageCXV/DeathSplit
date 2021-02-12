@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{E751678E-F73B-A6AF-0C52-4DA730FC7C4C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FreeHorrorGameKit/Scripts/PlayerBehaviour.cs">
+    <Files>
+      <File FileName="Assets/FreeHorrorGameKit/Scripts/PlayerBehaviour.cs" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DeathSplit" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tests PreferredExecutionTarget="5c9e099a-8a19-405c-818c-07dc2296f352" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5c9e099a-8a19-405c-818c-07dc2296f352" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
